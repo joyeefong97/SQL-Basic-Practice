@@ -1,3 +1,4 @@
+# Practice Resource SQLBolt website: https://sqlbolt.com/lesson/select_queries_introduction 
 # Find title of each film 
 SELECT Title
 FROM movies;
